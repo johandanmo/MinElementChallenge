@@ -1,3 +1,9 @@
+/*==========================================
+Title:  Udemy Minimum Element Challenge
+Author: Johan Danmo
+Date:   9 Mar 2020
+==========================================*/
+
 package academy.learnprogramming;
 
 import java.util.Scanner;
